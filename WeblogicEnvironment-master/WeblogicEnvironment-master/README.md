@@ -5,7 +5,7 @@ Weblogic环境搭建过程很繁琐，很多时候需要测试各种Weblogic版�
 此环境搭建工具使用Docker和shell脚本，因此需要本机安装Docker才可以使用。经测试漏洞搭建工具可以在3分钟内构建出任意JDK版本搭配任意Weblogic版本，包含一个可远程调试的已启动的Weblogic Server域环境。
 
 >步骤示例：http://wjlshare.com/archives/1573
-
+>如果libnsl因为源的问题下不了，就dockfile里注释掉
 
 
 
